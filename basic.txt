@@ -1,0 +1,18 @@
+
+How the program was run what are the step followed to run the program ??
+
+Answer...
+
+First we got the problem statement , then we have to take the pen paper and write down the login in paen paper and create the pseudo code of it
+then we have to create a flow chart ie.. what are the condition what are variables we have to define then after the 
+need of compiler come write the code in the compiler then compiler conver the code from plan formate to machine understandabel code in the binary formate
+and the exc file was generated then it will indicate that the program was terminated suscessfully...
+
+
+What is runtime, compileitme...
+
+Compiletime is basically the thing or all the work that re done on the backend for example compliler are converting all the thing in the
+machine understandabel language , or is there is any error inside the program it is going to show at the tiem of compile tiem
+
+Runtime is basically the thing that are the work that happen after the compile time after that all the errorin the program are clear
+all the input are taken and all the output are shown during runtime...

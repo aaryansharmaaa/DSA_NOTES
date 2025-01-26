@@ -1,0 +1,16 @@
+What is stl??
+
+Answer--->
+
+STL stands for standard templet library , these are special kind of in built library whose mening is already define to compiler , they are made to perfom 
+special task in the code 
+
+for example we define an array of size 5 but we want to push the 6th element inside it the only possible way is to by changing the size of array
+but there is somthiong in stl called vector suppose we define an vector of size 4 and vector is full but we want to push the 5th element in it 
+so vector automaticaly increase it size to twice and we can add n numbers of element inside the vector so this is the use of standard templet library.
+
+What is iterator 
+
+Iterator is basically the pointer that is pointing toward the perticular element inside the container...
+
+<vector<int> :: iterator=itr;

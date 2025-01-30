@@ -44,4 +44,6 @@ and the only onr key is pointing toward the onr entity like 2 is pointing toward
 
 Always return the element in the sorted order...
 
+time complexity is o(logn).
+
 */

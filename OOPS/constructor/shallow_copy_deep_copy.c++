@@ -47,7 +47,7 @@ int main()
 
 /*
 
-Shallow coyp or deep copy ---> Shallow copy is basically the concept when we copy one object to another object normally it is
+Shallow copy or deep copy ---> Shallow copy is basically the concept when we copy one object to another object normally it is
 called shallow copy,
 
 Deep copy is allocate in the Heap when we are doing thing dynamically...

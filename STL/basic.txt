@@ -13,4 +13,4 @@ What is iterator
 
 Iterator is basically the pointer that is pointing toward the perticular element inside the container...
 
-<vector<int> :: iterator=itr;
+vector<int> :: iterator=itr;
